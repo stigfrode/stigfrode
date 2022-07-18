@@ -1,13 +1,9 @@
 [
     {
-        "comment": "Minecraft Java Edition Server",
         "type": "UT3Query",
         "game": "Minecraft: Java Edition",
         "address": "192.168.39.187",
         "port": 25565,
         "channel": 978959638479388694,
         "image_url": "https://github.com/patrix87/DiscordLogGSM/raw/master/images/minecraft.png",
-        "country": "NO",
-        "maxplayers": 20,
-        "hostname": "WindowsGSM - Server #1"
     }
